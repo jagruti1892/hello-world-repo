@@ -3,7 +3,6 @@ name: Matrix Configuration
 
 on:
   push:
-  workflow_dispatch:
 
 jobs:
   deploy-on-ubuntu:
